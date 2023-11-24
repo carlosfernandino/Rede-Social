@@ -1,0 +1,7 @@
+**SCRIPT SQL**
+
+CREATE TABLE usuarios (
+nome VARCHAR(255),
+email VARCHAR(255) PRIMARY KEY,
+senha VARCHAR(255)
+);
