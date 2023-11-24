@@ -24,7 +24,7 @@ O programa permite ao usuário cadastrar, logar, adicionar amigos, enviar e rece
 1. Clone o repositório:
 
    ```shell
-   git clone https://github.com/carlos-fernandino/RedeSocial.git
+   git clone https://github.com/carlosfernandino/RedeSocial.git
    ```
 
 2. Acesse o diretório do projeto:
